@@ -1,2 +1,3 @@
 db/*
 nowhere_old/*
+.vagrant*
